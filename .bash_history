@@ -162,3 +162,85 @@ expo r --tunnel
 ls
 cd itProgerReact
 expo r --tunnel
+cd frontend
+git branch
+git init
+git branch
+git rm -r --cached .
+git branch
+rm -rf .git
+git branch
+git add .
+git commit -m "fi
+
+git commit -m "fi"
+git checkout master
+git push -u origin master
+git remote -v
+git pull
+git push -u origin master
+git pull origin master
+git branch
+git checkout master
+git add .
+git commit -m "fi"
+git branch
+git checkout master
+git stash
+git checkout master
+git push -u origin master
+git branch
+git pull origin master
+git push -u origin master
+git init
+git remote -b
+git remote -v
+git remote add  origin git@github.com:JaemoJeong/molip_2.git
+git push -u origin master
+git status
+git pull
+git push -u origin master
+git pull origin master
+git push -u origin master
+git add .
+git commit -m "fi"
+git push -u origin master
+git add ,
+cd ..
+cd frontend1
+ls
+cd frontend_1
+git add .
+git commit -m "1"
+git push origin master
+git push -u origin master
+git branch frontend
+git checkout frontend
+git push -u origin master
+cd ..
+cd backend
+git checkout backend
+cd ..
+git add .
+git reflog
+git reset 9f89791b
+git reflog
+git reset --hard 9f89791b
+git branch
+git add .
+git status
+git commit -m "new"
+git push -u origin master
+git remote remove
+git remote remove origin
+git remote add git@github.com:JaemoJeong/molip_2w.git
+git remote add origin git@github.com:JaemoJeong/molip_2w.git
+git push -u origin master
+cd frontend
+expo r --tunnel
+cd ..
+git reflog
+git reset --hard 3d0
+git reset --hard 9f89791b
+cd backend
+npx nodemon index.js
